@@ -13,3 +13,9 @@
    1. Ordered sublist 2b   
 
 *This* _text_ **includes** ~~emphasis~~
+
+```
+some code here
+some code here
+some code here
+```
