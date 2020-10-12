@@ -19,3 +19,7 @@ some code here
 some code here
 some code here
 ```
+Header 1 | Header 2
+------------ | -------------
+Cell 1 | Cell 2
+Column 1 | Column 2
