@@ -7,3 +7,4 @@
    1. Ordered sublist 2a
    1. Ordered sublist 2b
    
+*This* _text_ **includes** ~~emphasis~~
